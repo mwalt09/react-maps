@@ -1,0 +1,22 @@
+{
+  "name": "react-maps",
+  "version": "1.0.0",
+  "description": "testing google maps api in react",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mwalt09/react-maps.git"
+  },
+  "author": "mikael",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mwalt09/react-maps/issues"
+  },
+  "homepage": "https://github.com/mwalt09/react-maps#readme",
+  "dependencies": {
+    "google-maps-react": "^1.1.0"
+  }
+}
